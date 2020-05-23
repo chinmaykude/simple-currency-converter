@@ -6,7 +6,7 @@
 
 ### Summary
 
-Simple Currency Converter is a basic currency convertor app built using React. The currencies data is fetched from "The Free Currency Converter API".
+Simple Currency Converter is a basic currency converter app built using React. The currencies data is fetched from "The Free Currency Converter API".
 
 ### Motivation
 
