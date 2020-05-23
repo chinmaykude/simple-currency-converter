@@ -1,5 +1,5 @@
 import React from "react";
-import "../App.css";
+
 import SelectElement from "./util/SelectElement";
 
 const CurrencyToConvertTo = props => {

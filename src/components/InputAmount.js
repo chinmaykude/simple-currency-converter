@@ -1,5 +1,4 @@
 import React from "react";
-import "../App.css";
 
 const InputAmount = props => {
   const { amount, handleChange } = props;

@@ -1,5 +1,4 @@
 import React from "react";
-import "../App.css";
 
 const DisplayResult = props => {
   const {

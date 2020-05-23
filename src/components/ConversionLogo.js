@@ -1,6 +1,5 @@
 import React from "react";
-import "../App.css";
-import logo from "../resources/conversionLogo.jpg";
+import logo from "../assets/conversionLogo.jpg";
 
 const ConversionLogo = props => {
   const { handleFlip } = props;
