@@ -2,7 +2,7 @@
 [![HitCount](http://hits.dwyl.com/chinmaykude/chinmaykude/simple-currency-converter.svg)](http://hits.dwyl.com/chinmaykude/chinmaykude/simple-currency-converter)
 
 # Simple Currency Converter
-![SimpleCurrencyConvertorSample](https://user-images.githubusercontent.com/23414927/82735222-b85eae00-9d3d-11ea-9c0e-9dda076bd33b.png)
+![CurrencyConvertorGIF](https://user-images.githubusercontent.com/23414927/84501165-a4222700-acd3-11ea-8cf1-a708e7b257a7.gif)
 
 ### Summary
 
